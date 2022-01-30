@@ -1,0 +1,8 @@
+emp:
+  config:
+    designation: Manager
+    empName: Prateek
+    experience: 5
+fixedRate:
+  in:
+    milliseconds: 3000
